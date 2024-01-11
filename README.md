@@ -12,7 +12,7 @@
 
 ## Skills
 
-- Exploring PYTHON, HTML, CSS, JavaScript
+- Exploring Python, HTML, CSS, JavaScript
 
 ## What I Do
 
