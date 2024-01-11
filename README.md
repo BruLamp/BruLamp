@@ -14,10 +14,6 @@
 
 - Exploring Python, HTML, CSS, JavaScript
 
-## What I Do
-
-Fuelled by passion, I enjoy translating ideas into elegant code that makes a positive impact. Whether it's building web applications, solving coding challenges, or diving into new technologies, I'm always up for a coding adventure.
-
 ## Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/bruno-lampreia/)
